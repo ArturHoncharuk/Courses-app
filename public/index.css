@@ -63,3 +63,9 @@
 .back-button {
   margin-right: 1.2rem;
 }
+
+.avatar { 
+  max-width: 300px;
+  height: auto;
+  border-radius: 25px;
+}
